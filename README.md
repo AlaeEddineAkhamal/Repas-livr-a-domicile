@@ -18,9 +18,13 @@ Des E-mail personnalisé
 De magnifiques notifications par e-mail lors des livraisons, des paiements, création des comptes clients, etc.	
 
 Demo de l'application :
-Accès à l'application : utilisateur : user / mot de passe : user 
+Accès à l'application : utilisateur : user / mot de passe : user
+
 Espace Clients : http://app.epizza971.com/web/
+
 Espace Admin : http://www.app.epizza971.com/web/admin/stats
+
 Espace Cuisiniers : http://www.app.epizza971.com/web/cuisinier/commandes
+
 Espace Livreurs :http://www.app.epizza971.com/web/livreure/commandes
 
