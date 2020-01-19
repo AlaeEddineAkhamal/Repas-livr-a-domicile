@@ -33,3 +33,22 @@ Espace Cuisiniers : http://www.app.epizza971.com/web/cuisinier/commandes
 
 Espace Livreurs :http://www.app.epizza971.com/web/livreure/commandes
 
+
+Environnement technique :
+
+Méthodes de conception (SI) :
+
+Langage de Modélisation Unifié UML
+
+Frontend ;
+
+HTML5 / JS / CSS3 / jQuery / et bootstrap 4.
+
+Backend :
+
+PHP7 et Symfony 3.
+
+Gestionnaire de dépendances PHP :
+
+Composer.
+
