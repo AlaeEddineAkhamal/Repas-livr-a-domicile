@@ -40,7 +40,7 @@ Méthodes de conception (SI) :
 
 Langage de Modélisation Unifié UML
 
-Frontend ;
+Frontend :
 
 HTML5 / JS / CSS3 / jQuery / et bootstrap 4.
 
