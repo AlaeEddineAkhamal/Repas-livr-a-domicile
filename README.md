@@ -1,6 +1,6 @@
-# Repas-livré-a-domicile
+# livraison-a-domicile
 
-Application de gestion de livraisons à domicile pour la restauration.
+Application de gestion de livraison à domicile destiné aux professionnels souhaitant digitaliser leurs offres et promouvoir leur produits sur le Web.
 
 Espace Clients :
 
@@ -12,11 +12,11 @@ les cuisiniers visualise les commandes, prend en charge la préparation de la co
 
 Espace Livreurs:
 
-Les livreurs Visualise les commandes prête à être livrée, prend en charge la livraison, et valide la livraison de la commande.	
+Les livreurs Visualise les commandes prête à être livrée, prend en charge la livraison, et valide la livraison de la commande, Obtenir un itinéraire et afficher les trajets des livraisons.
 
 Backoffice :
 
-Prenez le contrôle de la plateforme, visualisez les chiffres du jours. Gérer les produits, les catégories de produits, et les ingrédients de cuisine. Listez les commandes, gérer le personnel du restaurant, et les clients.
+Prenez le contrôle de la plateforme, visualisez les chiffres du jours. Gérer les produits, les catégories de produits, et les ingrédients de cuisine. Listez les commandes, gérer le personnel du restaurant, et les clients, Obtenir les itinéraires et afficher les trajets des livraisons.
 
 Des E-mail personnalisé: 
 
@@ -25,14 +25,13 @@ De magnifiques notifications par e-mail lors des livraisons, des paiements, cré
 Demo de l'application :
 Accès à l'application : utilisateur : user / mot de passe : user
 
-Espace Clients : http://app.epizza971.com/web/
+Espace Clients : https://tousmestravaux.com/VenteEnLigne/web/
 
-Espace Admin : http://www.app.epizza971.com/web/admin/stats
+Espace Admin : https://tousmestravaux.com/VenteEnLigne/web/admin/stats
 
-Espace Cuisiniers : http://www.app.epizza971.com/web/cuisinier/commandes
+Espace Cuisiniers : https://tousmestravaux.com/VenteEnLigne/web/preparateur/commandes
 
-Espace Livreurs :http://www.app.epizza971.com/web/livreure/commandes
-
+Espace Livreurs :https://tousmestravaux.com/VenteEnLigne/web/livreur/commandes
 
 Environnement technique :
 
