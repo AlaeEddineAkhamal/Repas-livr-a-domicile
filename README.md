@@ -4,11 +4,11 @@ Application de gestion de livraison à domicile destiné aux professionnels souh
 
 Espace Clients :
 
-Les clients visualisent la carte de menu, remplissent leurs paniers, payent en ligne, et gèrent l'avancement de leurs commandes et leurs factures.		
+Les clients visualisent les Produits, remplissent leurs paniers, payent en ligne, et gèrent l'avancement de leurs commandes et leurs factures.		
 
-Espace Cuisiniers :
+Espace préparateur de commande  :
 
-les cuisiniers visualise les commandes, prend en charge la préparation de la commande, et valide la fin de la préparation de la commande.
+les préparateurs visualise les commandes, prend en charge la préparation de la commande, et valide la fin de la préparation de la commande.
 
 Espace Livreurs:
 
