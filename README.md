@@ -4,19 +4,19 @@ Application de gestion de livraison à domicile destiné aux professionnels souh
 
 Espace Clients :
 
-Les clients visualisent les Produits, remplissent leurs paniers, payent en ligne, et gèrent l'avancement de leurs commandes et leurs factures.		
+Le client visualise les produits, il remplit son panier, paye en ligne, et gère l'avancement de ses commandes et ses factures.		
 
-Espace préparateur de commande  :
+Espace préparateurs de commande :
 
-les préparateurs visualise les commandes, prend en charge la préparation de la commande, et valide la fin de la préparation de la commande.
+le préparateur visualise les commandes, prend en charge la préparation de la commande, et valide la fin de la préparation de la commande.
 
 Espace Livreurs:
 
-Les livreurs Visualise les commandes prête à être livrée, prend en charge la livraison, et valide la livraison de la commande, Obtenir un itinéraire et afficher les trajets des livraisons.
+Le livreur Visualise les commandes prêtes à être livrées, prend en charge la livraison, valide la livraison de la commande, et affiche les itinéraires des livraisons.
 
 Backoffice :
 
-Prenez le contrôle de la plateforme, visualisez les chiffres du jours. Gérer les produits, les catégories de produits, et les ingrédients de cuisine. Listez les commandes, gérer le personnel du restaurant, et les clients, Obtenir les itinéraires et afficher les trajets des livraisons.
+le gérant prend le contrôle de la plateforme, il visualise les chiffres du jour. gère les produits, les catégories de produits, les ingrédients de cuisine. il liste les commandes, gère le personnel du restaurant, les clients, il obtient les itinéraires et affiche les trajets des livraisons.
 
 Des E-mail personnalisé: 
 
